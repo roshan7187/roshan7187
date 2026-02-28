@@ -1,21 +1,73 @@
-# 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on<br><br>Full-stack web applications (Frontend + Backend integration)<br><br>RESTful APIs with Python<br><br>Building responsive UI with modern JavaScript frameworks<br><br>👯 I’m looking to collaborate on
+<!-- cover / hero -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" />
+</p>
 
+# Hi 👋, I'm Roshan Gupta
+### Full Stack Developer — building responsive frontends and reliable backends
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshan7187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roshan7187&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan7187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roshan7187&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img alt="coding gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roshan7187&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshan7187&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshan7187" alt="trophies" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently building scalable full-stack web applications with strong frontend-backend integration.  
+- 🌱 Learning advanced backend architecture with Django and improving database design skills.  
+- 👯 Open to collaborating on full-stack projects (media platforms, dashboards, SaaS apps).  
+- 💬 Ask me about Python, REST APIs, SQL, frontend integration, and system design.  
+- 📫 Contact: **roshangupta7187@gmail.com**
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/roshan-kumar-gupta-9310a8230/" target="_blank" rel="noreferrer">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/roshan2031/" target="_blank" rel="noreferrer">LeetCode</a> ·
+  <a href="https://roshangupta.xyz" target="_blank" rel="noreferrer">Portfolio</a>
+</p>
+
+---
+
+## 🧰 Tech & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan7187&show_icons=true&layout=compact" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roshan7187&show_icons=true" />
+</p>
+
+<p align="left">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan7187&" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=roshan7187&theme=radical&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 👀 Visitor Count
+[![Visitor Count](https://visitcount.itsvg.in/api?id=roshan7187&icon=5&color=0)](https://visitcount.itsvg.in)
+
+---
+
+*Profile README for roshan7187*
