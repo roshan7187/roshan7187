@@ -65,9 +65,4 @@
 
 ---
 
-## 👀 Visitor Count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=roshan7187&icon=5&color=0)](https://visitcount.itsvg.in)
-
----
-
 *Profile README for roshan7187*
